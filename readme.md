@@ -1,35 +1,35 @@
 # Python
 ## Nivel 1
 - [ ] **Python - Fundamentos**:
-   - Conhecer os tipos primitivos
-   - Declarar variáveis, considerando os diferentes tipos
-   - Usar estruturas condicionais ('if', 'else')
-   - Conhecer os operadores de comparação
-   - Usar estruturas de repetição e laços ('while', 'for')
-   - Usar funções, passando parâmetros e argumentos
-   - Manipular métodos
-   - Manipular arrays e listas
-   - Obter dados de uma API
-   - Fazer chamadas assíncronas
-   - Criar construtores
-   - Funções anônimas
+   - Conhecer os tipos primitivos :heavy_check_mark:
+   - Declarar variáveis, considerando os diferentes tipos :heavy_check_mark:
+   - Usar estruturas condicionais ('if', 'else') :heavy_check_mark:
+   - Conhecer os operadores de comparação :heavy_check_mark:
+   - Usar estruturas de repetição e laços ('while', 'for') :heavy_check_mark:
+   - Usar funções, passando parâmetros e argumentos :heavy_check_mark:
+   - Manipular métodos :heavy_check_mark:
+   - Manipular arrays e listas :heavy_check_mark:
+   - Obter dados de uma API :heavy_check_mark:
+   - Fazer chamadas assíncronas 
+   - Criar construtores :heavy_check_mark:
+   - Funções anônimas :heavy_check_mark:
 - [ ] **Conceitos de Orientação a Objetos**:
-   - A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo.
-   - Como funcionam objetos
-   - Criar e utilizar construtores
-   - O que são classes
-   - Criar e utilizar métodos
-   - Como funciona encapsulamento
-   - O que é herança
-   - O que é polimorfismo
+   - A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo. :heavy_check_mark:
+   - Como funcionam objetos :heavy_check_mark:
+   - Criar e utilizar construtores :heavy_check_mark:
+   - O que são classes :heavy_check_mark:
+   - Criar e utilizar métodos :heavy_check_mark:
+   - Como funciona encapsulamento :heavy_check_mark:
+   - O que é herança :heavy_check_mark:
+   - O que é polimorfismo :heavy_check_mark:
    - Como funcionam interfaces
    - O que são abstrações
 - [ ] **Estruturas de Dados**:
-   - No contexto dos computadores, uma estrutura de dados é uma forma específica de armazenar e organizar os dados na memória do computador para que esses dados possam ser facilmente recuperados e utilizados de forma eficiente quando necessário posteriormente.
-   - Conhecer as principais estruturas de dados
+   - No contexto dos computadores, uma estrutura de dados é uma forma específica de armazenar e organizar os dados na memória do computador para que esses dados possam ser facilmente recuperados e utilizados de forma eficiente quando necessário posteriormente.:heavy_check_mark:
+   - Conhecer as principais estruturas de dados 
    - Implementar as principais estruturas de dados
 - [ ] **Python - Coleções**:
-   - Utilizar listas e tuplas
+   - Utilizar listas e tuplas :heavy_check_mark:
    - Utilizar polimorfismo nas coleções
    - Utilizar conjuntos e dicionários
 - [ ] **Python - Testes**:
@@ -40,21 +40,21 @@
    - Usar mocks
 ## Nivel 2
 - [ ] **Flask**:
-   - Criar aplicações web
-   - Definir rotas, redirecionamentos e templates
-   - Validar formulários
+   - Criar aplicações web :heavy_check_mark:
+   - Definir rotas, redirecionamentos e templates :heavy_check_mark:
+   - Validar formulários :heavy_check_mark:
 - [ ] **Python - Orientação a Objetos Avançada**:
    - Mixin é uma classe que fornece implementações de métodos para reutilização por múltiplas classes filhas relacionadas.
    - Sobrecarga do operador significa dar significado estendido além de seu significado operacional predefinido.
 - [ ] **Django**:
-   - Criar aplicações web
-   - Entender a arquitetura de uma aplicação feita com Django
-   - Criar o admin de uma página
-   - Utilizar templates e rotas
-   - Criar formulários
+   - Criar aplicações web :heavy_check_mark:
+   - Entender a arquitetura de uma aplicação feita com Django :heavy_check_mark:
+   - Criar o admin de uma página :heavy_check_mark:
+   - Utilizar templates e rotas :heavy_check_mark:
+   - Criar formulários :heavy_check_mark:
 - [ ] **Django Rest Framework**:
-   - Desenvolver APIs
-   - Trabalhar com modelos, serializers e views
+   - Desenvolver APIs :heavy_check_mark:
+   - Trabalhar com modelos, serializers e views :heavy_check_mark:
    - Incluir filtros, buscas e ordenação
    - Limitar o número de requisições
 - [ ] **Python - MVC e MTV**:
@@ -81,11 +81,11 @@
    - Conhecer o conceito de objetos aguardáveis
    - Criar tarefas concorrentemente
 - [ ] **Python - Métodos Especiais**:
-   - Métodos especiais, ou métodos mágicos, em Python são métodos predefinidos em todos os objetos, com invocação automática sob circunstâncias especiais. Eles normalmente não são chamados diretamente pelo usuário mas podem ser overloaded (sobrescritos e alterados). Seus nomes começam e terminam com sublinhados duplos chamados de dunder (uma expressão derivada de double underscore).
-   - Entender o conceito de métodos especiais (ou mágicos)
+   - Métodos especiais, ou métodos mágicos, em Python são métodos predefinidos em todos os objetos, com invocação automática sob circunstâncias especiais. Eles normalmente não são chamados diretamente pelo usuário mas podem ser overloaded (sobrescritos e alterados). Seus nomes começam e terminam com sublinhados duplos chamados de dunder (uma expressão derivada de double underscore). :heavy_check_mark:
+   - Entender o conceito de métodos especiais (ou mágicos) 
    - Conhecer os principais métodos mágicos e como usá-los
 - [ ] **Python - Geradores**:
-   - Criar objetos iteradores
+   - Criar objetos iteradores :heavy_check_mark:
    - Usar avaliação preguiçosa
    - Executar tarefas simultâneas
    - Uso da palavra reservada yield
@@ -96,44 +96,44 @@
    - Conhecer a classe Pool
 ## Habilidade Auxiliar: Infraestrutura 
 - [ ] **Git e GitHub - Fundamentos**:
-   - Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
-   - GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git.
-   - Criar um repositório
-   - Clonar um repositório
-   - Fazer commit, push e pull de e para o repositório
-   - Reverter um commit
-   - Criar branches e pul requests
-   - Lidar com merge e conflitos
+   - Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência. :heavy_check_mark:
+   - GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git. :heavy_check_mark:
+   - Criar um repositório :heavy_check_mark:
+   - Clonar um repositório :heavy_check_mark:
+   - Fazer commit, push e pull de e para o repositório :heavy_check_mark:
+   - Reverter um commit :heavy_check_mark:
+   - Criar branches e pul requests :heavy_check_mark:
+   - Lidar com merge e conflitos :heavy_check_mark:
 - [ ] **HTTP - Fundamentos**:
-   - HTTP significa Hyper Text Transfer Protocol. A comunicação entre computadores cliente e servidores web é feita enviando solicitações HTTP e recebendo respostas HTTP.
-   - Entender a diferença dos verbos HTTP
+   - HTTP significa Hyper Text Transfer Protocol. A comunicação entre computadores cliente e servidores web é feita enviando solicitações HTTP e recebendo respostas HTTP. :heavy_check_mark:
+   - Entender a diferença dos verbos HTTP :heavy_check_mark:
    - Testar os requests e ver os status codes no navegador
    - Saber fazer uma requisição HTTP na linha de comando com WGET
    - Baixar uma imagem com WGET
    - Fazer um post
 - [ ] **JSON**:
-   - JSON significa JavaScript Object Notation (notação de objeto JavaScript). É um formato de texto para armazenar e transmitir dados.
-   - Criar um objeto
-   - Transformar um objeto em uma string
-   - Transformar uma string em objeto
-   - Manipular um objeto
+   - JSON significa JavaScript Object Notation (notação de objeto JavaScript). É um formato de texto para armazenar e transmitir dados. :heavy_check_mark:
+   - Criar um objeto :heavy_check_mark:
+   - Transformar um objeto em uma string :heavy_check_mark:
+   - Transformar uma string em objeto :heavy_check_mark:
+   - Manipular um objeto :heavy_check_mark:
 - [ ] **Linha de comando - Fundamentos**:
-   - CLI é um programa de linha de comando que aceita entradas de texto para executar funções do sistema operacional.
-   - Conhecer os principais comandos
+   - CLI é um programa de linha de comando que aceita entradas de texto para executar funções do sistema operacional. :heavy_check_mark:
+   - Conhecer os principais comandos :heavy_check_mark:
 - [ ] **Cloud - Fundamentos**:
    - Cloud, ou computação em nuvem é a distribuição de serviços de computação pela Internet usando um modelo de preço pago conforme o uso. Uma nuvem é composta de vários recursos de computação, que abrangem desde os próprios computadores (ou instâncias, na terminologia de nuvem) até redes, armazenamento, bancos de dados e o que estiver em torno deles. Ou seja, tudo o que normalmente é necessário para montar o equivalente a uma sala de servidores, ou mesmo um data center completo, estará pronto para ser utilizado, configurado e executado.
    - Conhecer a diferença entre IaaS, PaaS e SaaS
    - Conhecer os maiores provedores de cloud
    - Especializar-se em algum provedor
 - [ ] **SQL - Fundamentos**:
-   - SQL (Structured Query Language, traduzindo, Linguagem de Consulta Estruturada) é uma linguagem de programação padronizada que é usada para gerenciar bancos de dados relacionais e realizar várias operações sobre os dados neles contidos.
-   - Conhecer os comandos mais comuns do SQL
-   - Usar SELECT para consultar uma tabela
-   - Usar INSERT para inserir dados em uma tabela
-   - Usar UPDATE para atualizar uma tabela
-   - Usar DELETE para remover dados de uma tabela
-   - Usar JOIN para conectar os dados de múltiplas tabelas
-   - Conhecer as cláusulas (FROM, ORDER BY, etc)
+   - SQL (Structured Query Language, traduzindo, Linguagem de Consulta Estruturada) é uma linguagem de programação padronizada que é usada para gerenciar bancos de dados relacionais e realizar várias operações sobre os dados neles contidos. :heavy_check_mark:
+   - Conhecer os comandos mais comuns do SQL :heavy_check_mark:
+   - Usar SELECT para consultar uma tabela :heavy_check_mark:
+   - Usar INSERT para inserir dados em uma tabela :heavy_check_mark:
+   - Usar UPDATE para atualizar uma tabela :heavy_check_mark:
+   - Usar DELETE para remover dados de uma tabela :heavy_check_mark:
+   - Usar JOIN para conectar os dados de múltiplas tabelas :heavy_check_mark:
+   - Conhecer as cláusulas (FROM, ORDER BY, etc) :heavy_check_mark:
 ## Habilidade Auxiliar: Boas práticas e ferramentas 
 - [ ] **SOLID**:
    - O Solid possui cinco princípios considerados como boas práticas no desenvolvimento de software que ajudam os programadores a escrever os códigos mais limpos, separando as responsabilidades, diminuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamento do código.
